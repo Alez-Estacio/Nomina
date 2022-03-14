@@ -1,0 +1,78 @@
+C:\Users\diego\source\repos\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.AssemblyInfoInputs.cache
+C:\Users\diego\source\repos\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.AssemblyInfo.cs
+C:\Users\diego\source\repos\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.exe
+C:\Users\diego\source\repos\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.deps.json
+C:\Users\diego\source\repos\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.runtimeconfig.json
+C:\Users\diego\source\repos\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.runtimeconfig.dev.json
+C:\Users\diego\source\repos\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.dll
+C:\Users\diego\source\repos\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.pdb
+C:\Users\diego\source\repos\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.dll
+C:\Users\diego\source\repos\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.pdb
+C:\Users\diego\source\repos\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.genruntimeconfig.cache
+C:\Users\andersonG\Downloads\Nomina2021\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.exe
+C:\Users\andersonG\Downloads\Nomina2021\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.deps.json
+C:\Users\andersonG\Downloads\Nomina2021\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.runtimeconfig.json
+C:\Users\andersonG\Downloads\Nomina2021\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.runtimeconfig.dev.json
+C:\Users\andersonG\Downloads\Nomina2021\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.dll
+C:\Users\andersonG\Downloads\Nomina2021\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.pdb
+C:\Users\andersonG\Downloads\Nomina2021\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.csprojAssemblyReference.cache
+C:\Users\andersonG\Downloads\Nomina2021\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.AssemblyInfoInputs.cache
+C:\Users\andersonG\Downloads\Nomina2021\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.AssemblyInfo.cs
+C:\Users\andersonG\Downloads\Nomina2021\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.csproj.CoreCompileInputs.cache
+C:\Users\andersonG\Downloads\Nomina2021\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.dll
+C:\Users\andersonG\Downloads\Nomina2021\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.pdb
+C:\Users\andersonG\Downloads\Nomina2021\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.genruntimeconfig.cache
+C:\Users\diego\Downloads\Nomina2021\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.exe
+C:\Users\diego\Downloads\Nomina2021\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.deps.json
+C:\Users\diego\Downloads\Nomina2021\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.runtimeconfig.json
+C:\Users\diego\Downloads\Nomina2021\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.runtimeconfig.dev.json
+C:\Users\diego\Downloads\Nomina2021\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.dll
+C:\Users\diego\Downloads\Nomina2021\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.pdb
+C:\Users\diego\Downloads\Nomina2021\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.csprojAssemblyReference.cache
+C:\Users\diego\Downloads\Nomina2021\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.AssemblyInfoInputs.cache
+C:\Users\diego\Downloads\Nomina2021\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.AssemblyInfo.cs
+C:\Users\diego\Downloads\Nomina2021\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.csproj.CoreCompileInputs.cache
+C:\Users\diego\Downloads\Nomina2021\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.dll
+C:\Users\diego\Downloads\Nomina2021\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.pdb
+C:\Users\diego\Downloads\Nomina2021\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.genruntimeconfig.cache
+C:\Users\USUARIO\Downloads\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.exe
+C:\Users\USUARIO\Downloads\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.deps.json
+C:\Users\USUARIO\Downloads\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.runtimeconfig.json
+C:\Users\USUARIO\Downloads\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.runtimeconfig.dev.json
+C:\Users\USUARIO\Downloads\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.dll
+C:\Users\USUARIO\Downloads\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.pdb
+C:\Users\USUARIO\Downloads\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.csprojAssemblyReference.cache
+C:\Users\USUARIO\Downloads\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.dll
+C:\Users\USUARIO\Downloads\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.pdb
+C:\Users\USUARIO\Downloads\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\ConsoleApp1\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\ConsoleApp1\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\ConsoleApp1\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\ConsoleApp1\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\ConsoleApp1\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.dll
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\ConsoleApp1\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.pdb
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\ConsoleApp1\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.exe
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\ConsoleApp1\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.deps.json
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\ConsoleApp1\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.runtimeconfig.json
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\ConsoleApp1\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\ConsoleApp1\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.dll
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\ConsoleApp1\Nomina2021\Nomina2021\bin\Debug\netcoreapp3.1\Nomina2021.pdb
+C:\Users\USUARIO\Desktop\videos video p.pío\victor sena no tocar\ConsoleApp1\Nomina2021\Nomina2021\obj\Debug\netcoreapp3.1\Nomina2021.genruntimeconfig.cache
+C:\XAMPP\htdocs\Plan de mejora2184573Victor alezander Estacio Rodriguez\bin\Debug\netcoreapp3.1\Nomina2021.exe
+C:\XAMPP\htdocs\Plan de mejora2184573Victor alezander Estacio Rodriguez\bin\Debug\netcoreapp3.1\Nomina2021.deps.json
+C:\XAMPP\htdocs\Plan de mejora2184573Victor alezander Estacio Rodriguez\bin\Debug\netcoreapp3.1\Nomina2021.runtimeconfig.json
+C:\XAMPP\htdocs\Plan de mejora2184573Victor alezander Estacio Rodriguez\bin\Debug\netcoreapp3.1\Nomina2021.runtimeconfig.dev.json
+C:\XAMPP\htdocs\Plan de mejora2184573Victor alezander Estacio Rodriguez\bin\Debug\netcoreapp3.1\Nomina2021.dll
+C:\XAMPP\htdocs\Plan de mejora2184573Victor alezander Estacio Rodriguez\bin\Debug\netcoreapp3.1\Nomina2021.pdb
+C:\XAMPP\htdocs\Plan de mejora2184573Victor alezander Estacio Rodriguez\obj\Debug\netcoreapp3.1\Nomina2021.csprojAssemblyReference.cache
+C:\XAMPP\htdocs\Plan de mejora2184573Victor alezander Estacio Rodriguez\obj\Debug\netcoreapp3.1\Nomina2021.AssemblyInfoInputs.cache
+C:\XAMPP\htdocs\Plan de mejora2184573Victor alezander Estacio Rodriguez\obj\Debug\netcoreapp3.1\Nomina2021.AssemblyInfo.cs
+C:\XAMPP\htdocs\Plan de mejora2184573Victor alezander Estacio Rodriguez\obj\Debug\netcoreapp3.1\Nomina2021.csproj.CoreCompileInputs.cache
+C:\XAMPP\htdocs\Plan de mejora2184573Victor alezander Estacio Rodriguez\obj\Debug\netcoreapp3.1\Nomina2021.dll
+C:\XAMPP\htdocs\Plan de mejora2184573Victor alezander Estacio Rodriguez\obj\Debug\netcoreapp3.1\Nomina2021.pdb
+C:\XAMPP\htdocs\Plan de mejora2184573Victor alezander Estacio Rodriguez\obj\Debug\netcoreapp3.1\Nomina2021.genruntimeconfig.cache
